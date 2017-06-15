@@ -1,0 +1,14 @@
+{
+    "name": "microlifee/sayhip",
+    "description": "build a new composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ml",
+            "email": "moolifee@yahoo.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
